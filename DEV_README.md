@@ -5,9 +5,9 @@
 We need 4 tranches of data, any data available in one must be available in all
 
 ### Static
-Training, 1 year + consecutive
-Dev, 1-3 month subset of training, this is used for public leaderboard scoring, participants have full access to this
-Hold-out, 1-3 month subset of training, this will be used for the final scoring, participants never see this
+- Training, 1 year + consecutive
+- Dev, 1-3 month subset of training, this is used for public leaderboard scoring, participants have full access to this
+- Hold-out, 1-3 month subset of training, this will be used for the final scoring, participants never see this
 
 ### Live
 Live: 10 consecutive days, 20th-30th of April 2024
